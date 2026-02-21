@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-edge-pulse-connector-scale-i1h",
+  "version": "1.0.0",
+  "description": "Distributed system for high-performance processing",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "edge-pulse-connector-scale-i1h"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-edge-pulse-connector-scale-i1h.git"
+  }
+}
